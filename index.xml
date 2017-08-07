@@ -4,6 +4,7 @@
   <dataIndexEntries>
     <dataIndexEntry filePath="Blood_Bowl_2016.gstz" dataType="gamesystem" dataId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" dataName="Blood Bowl 2016" dataBattleScribeVersion="2.01" dataRevision="17"/>
     <dataIndexEntry filePath="Halflings - BB16.catz" dataType="catalogue" dataId="736e07b6-4458-426e-8cf9-d33860c0c7a7" dataName="Halfling Team" dataBattleScribeVersion="2.01" dataRevision="7"/>
+    <dataIndexEntry filePath="Necromantic Horror - BB16.catz" dataType="catalogue" dataId="c0d8490b-f414-41e1-b42c-cde6936fa34c" dataName="Necromantic Horror" dataBattleScribeVersion="2.01" dataRevision="9"/>
     <dataIndexEntry filePath="Shambling Undead - BB16.catz" dataType="catalogue" dataId="50604bc1-0bc5-4f33-bd0e-fa87fe3209d4" dataName="Shambling Undead" dataBattleScribeVersion="2.01" dataRevision="6"/>
     <dataIndexEntry filePath="Amazon - BB16.catz" dataType="catalogue" dataId="137e4c81-9c6f-43f5-86a9-c75a218cab0f" dataName="Amazon Team" dataBattleScribeVersion="2.01" dataRevision="10"/>
     <dataIndexEntry filePath="Nurgle - BB16.catz" dataType="catalogue" dataId="a4ff4a11-c0fc-490e-b1ed-89ac6469327c" dataName="Nurgle Team" dataBattleScribeVersion="2.01" dataRevision="9"/>
