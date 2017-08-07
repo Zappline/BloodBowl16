@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="Blood Bowl 2016" indexUrl="https://github.com/Zappline/BloodBowl16" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Blood_Bowl_2016.gstz" dataType="gamesystem" dataId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" dataName="Blood Bowl 2016" dataBattleScribeVersion="2.01" dataRevision="17"/>
+    <dataIndexEntry filePath="Amazon - BB16.catz" dataType="catalogue" dataId="137e4c81-9c6f-43f5-86a9-c75a218cab0f" dataName="Amazon Team" dataBattleScribeVersion="2.01" dataRevision="10"/>
+    <dataIndexEntry filePath="Chaos Dwarfs - BB16.catz" dataType="catalogue" dataId="4cd2a796-0d89-443b-af4d-7f0a471ed90e" dataName="Chaos Dwarf Team" dataBattleScribeVersion="2.01" dataRevision="7"/>
+    <dataIndexEntry filePath="Chaos Renegades - BB16.catz" dataType="catalogue" dataId="e9482b58-edc3-4edb-a2d3-c07110883bfb" dataName="Chaos Renegades" dataBattleScribeVersion="2.01" dataRevision="15"/>
+    <dataIndexEntry filePath="Chaos Chosen - BB16.catz" dataType="catalogue" dataId="0a3a386d-4b6a-4389-a18b-772e4a005a12" dataName="Chaos Chosen" dataBattleScribeVersion="2.01" dataRevision="14"/>
+  </dataIndexEntries>
+</dataIndex>
