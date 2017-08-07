@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.01" name="Blood Bowl 2016" indexUrl="https://github.com/Zappline/BloodBowl16" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.01" name="Blood Bowl 2016" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
     <dataIndexEntry filePath="Blood_Bowl_2016.gstz" dataType="gamesystem" dataId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" dataName="Blood Bowl 2016" dataBattleScribeVersion="2.01" dataRevision="17"/>
     <dataIndexEntry filePath="Amazon - BB16.catz" dataType="catalogue" dataId="137e4c81-9c6f-43f5-86a9-c75a218cab0f" dataName="Amazon Team" dataBattleScribeVersion="2.01" dataRevision="10"/>
+    <dataIndexEntry filePath="Lizardman - BB16.catz" dataType="catalogue" dataId="b807a583-d1b4-4029-b81b-b14c3ad69064" dataName="Lizardman Team" dataBattleScribeVersion="2.01" dataRevision="7"/>
+    <dataIndexEntry filePath="High Elves - BB16.catz" dataType="catalogue" dataId="b666b61b-33cc-42b1-99e0-f06e24197e96" dataName="High Elves" dataBattleScribeVersion="2.01" dataRevision="11"/>
+    <dataIndexEntry filePath="Norse - BB16.catz" dataType="catalogue" dataId="a8c9df66-74bb-4cd8-bc25-f93d737731f5" dataName="Norse Team" dataBattleScribeVersion="2.01" dataRevision="8"/>
     <dataIndexEntry filePath="Chaos Dwarfs - BB16.catz" dataType="catalogue" dataId="4cd2a796-0d89-443b-af4d-7f0a471ed90e" dataName="Chaos Dwarf Team" dataBattleScribeVersion="2.01" dataRevision="7"/>
     <dataIndexEntry filePath="Chaos Renegades - BB16.catz" dataType="catalogue" dataId="e9482b58-edc3-4edb-a2d3-c07110883bfb" dataName="Chaos Renegades" dataBattleScribeVersion="2.01" dataRevision="15"/>
+    <dataIndexEntry filePath="Khemri - BB16.catz" dataType="catalogue" dataId="453fbaaf-fb2b-4c78-923a-382c232a2779" dataName="Khemri Team" dataBattleScribeVersion="2.01" dataRevision="8"/>
+    <dataIndexEntry filePath="Slann - BB16.catz" dataType="catalogue" dataId="4cbeab68-3bc9-4784-b739-fb36d13d1fcb" dataName="Slann Team" dataBattleScribeVersion="2.01" dataRevision="7"/>
+    <dataIndexEntry filePath="Dwarf - BB16.catz" dataType="catalogue" dataId="153dcec4-73de-437d-b877-f419c9c2d50f" dataName="Dwarf Team" dataBattleScribeVersion="2.01" dataRevision="7"/>
+    <dataIndexEntry filePath="Vampire - BB16.catz" dataType="catalogue" dataId="85cbe880-09fd-49fd-a77c-5f10b8986bc5" dataName="Vampire Team" dataBattleScribeVersion="2.01" dataRevision="11"/>
+    <dataIndexEntry filePath="Elven Union - BB16.catz" dataType="catalogue" dataId="641d7e90-8271-47b2-a437-ccab1c28b7ae" dataName="Elven Union" dataBattleScribeVersion="2.01" dataRevision="13"/>
+    <dataIndexEntry filePath="Nurgle - BB16.catz" dataType="catalogue" dataId="a4ff4a11-c0fc-490e-b1ed-89ac6469327c" dataName="Nurgle Team" dataBattleScribeVersion="2.01" dataRevision="9"/>
+    <dataIndexEntry filePath="Underworld Denizens - BB16.catz" dataType="catalogue" dataId="ab80a28e-58b5-4507-8d15-b56fe8bc6f84" dataName="Underworld Denizens" dataBattleScribeVersion="2.01" dataRevision="10"/>
+    <dataIndexEntry filePath="Skaven - BB16.catz" dataType="catalogue" dataId="3996813e-c141-4ae8-8bac-aa8969a6dc4c" dataName="Skaven Team" dataBattleScribeVersion="2.01" dataRevision="5"/>
+    <dataIndexEntry filePath="Necromantic Horrow - BB16.catz" dataType="catalogue" dataId="c0d8490b-f414-41e1-b42c-cde6936fa34c" dataName="Necromantic Horrow" dataBattleScribeVersion="2.01" dataRevision="7"/>
     <dataIndexEntry filePath="Chaos Chosen - BB16.catz" dataType="catalogue" dataId="0a3a386d-4b6a-4389-a18b-772e4a005a12" dataName="Chaos Chosen" dataBattleScribeVersion="2.01" dataRevision="14"/>
+    <dataIndexEntry filePath="Shambling Undead - BB16.catz" dataType="catalogue" dataId="50604bc1-0bc5-4f33-bd0e-fa87fe3209d4" dataName="Shambling Undead" dataBattleScribeVersion="2.01" dataRevision="6"/>
+    <dataIndexEntry filePath="Goblins - BB16.catz" dataType="catalogue" dataId="de6eab1a-e3fd-478d-a2cb-2fe495d63138" dataName="Goblin Team" dataBattleScribeVersion="2.01" dataRevision="8"/>
+    <dataIndexEntry filePath="Halflings - BB16.catz" dataType="catalogue" dataId="736e07b6-4458-426e-8cf9-d33860c0c7a7" dataName="Halfling Team" dataBattleScribeVersion="2.01" dataRevision="7"/>
+    <dataIndexEntry filePath="Wood Elves - BB16.catz" dataType="catalogue" dataId="7eeb8e89-5a1b-4a67-bd39-d4add95f95c5" dataName="Wood Elves" dataBattleScribeVersion="2.01" dataRevision="10"/>
+    <dataIndexEntry filePath="Dark Elves - BB16.catz" dataType="catalogue" dataId="5e8a17ba-e3b5-4e2d-bdb7-8ef646640f8c" dataName="Dark Elves" dataBattleScribeVersion="2.01" dataRevision="13"/>
+    <dataIndexEntry filePath="Ogre - BB16.catz" dataType="catalogue" dataId="f23e9ca0-d048-437b-944b-acfe2f8535b7" dataName="Ogre Team" dataBattleScribeVersion="2.01" dataRevision="7"/>
+    <dataIndexEntry filePath="Humams - BB16.catz" dataType="catalogue" dataId="c2ef8ed7-7579-4c7d-bd3e-60e4624e7b1d" dataName="Human Team" dataBattleScribeVersion="2.01" dataRevision="14"/>
+    <dataIndexEntry filePath="Orc - BB16.catz" dataType="catalogue" dataId="05b4301e-e0a9-4f5c-a9f0-69c7189e5ead" dataName="Orc Team" dataBattleScribeVersion="2.01" dataRevision="7"/>
   </dataIndexEntries>
 </dataIndex>
